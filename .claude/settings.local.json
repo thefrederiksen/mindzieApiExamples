@@ -7,7 +7,14 @@
       "Bash(fi)",
       "Bash(done)",
       "Bash(python:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(find:*)",
+      "Bash(mv:*)",
+      "Bash(for:*)",
+      "Bash(do if [ -f \"$file\" ])",
+      "Bash(then mv \"$file\" \"$file.disabled\")",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
