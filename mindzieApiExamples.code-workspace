@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+"settings": {
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#00fca8",
+			"titleBar.activeForeground": "#ffffff",
+			"titleBar.inactiveBackground": "#00fca8",
+			"titleBar.inactiveForeground": "#e3e3e3"
+		},
+		"window.title": "mindzieApiExamples",
+		"window.titleBarStyle": "custom"
+
+	}	}

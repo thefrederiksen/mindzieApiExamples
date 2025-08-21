@@ -1,0 +1,5 @@
+# Ignore the actual .env file with credentials
+.env
+
+# But keep the template
+!.env.template

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in *.py)",
+      "Bash(do if grep -q \"from projects.api_utils import\" \"$file\")",
+      "Bash(then echo \"Fixing: $file\")",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
