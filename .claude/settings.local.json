@@ -6,7 +6,8 @@
       "Bash(then echo \"Fixing: $file\")",
       "Bash(fi)",
       "Bash(done)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": [],
     "ask": []
